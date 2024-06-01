@@ -1,0 +1,6 @@
+/Users/markb/dev/supabase-parquet/rust-parquet-s3/target/release/build/rustversion-24ee0bb0b2d6cce1/build_script_build-24ee0bb0b2d6cce1: /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.17/build/build.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.17/build/rustc.rs
+
+/Users/markb/dev/supabase-parquet/rust-parquet-s3/target/release/build/rustversion-24ee0bb0b2d6cce1/build_script_build-24ee0bb0b2d6cce1.d: /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.17/build/build.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.17/build/rustc.rs
+
+/Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.17/build/build.rs:
+/Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/rustversion-1.0.17/build/rustc.rs:

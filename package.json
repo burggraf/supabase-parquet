@@ -1,0 +1,17 @@
+{
+  "name": "supabase-parquet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "read / write / append parquet files",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "duckdb": "^0.10.2",
+    "faker": "^6.6.6"
+  }
+}

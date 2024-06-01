@@ -1,0 +1,10 @@
+[package]
+name = "data_generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fake = { version = "2.9.2", features = ["chrono"] }
+duckdb = { version = "0.10.2", features = ["bundled"] }
+rand = "0.8.5"
+chrono = "0.4"

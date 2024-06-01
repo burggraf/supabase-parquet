@@ -1,0 +1,11 @@
+/Users/markb/dev/supabase-parquet/rust-parquet-s3/target/release/deps/libxmlparser-0959921bb94cf46f.rmeta: /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/lib.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/error.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/stream.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/strspan.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/xmlchar.rs
+
+/Users/markb/dev/supabase-parquet/rust-parquet-s3/target/release/deps/libxmlparser-0959921bb94cf46f.rlib: /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/lib.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/error.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/stream.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/strspan.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/xmlchar.rs
+
+/Users/markb/dev/supabase-parquet/rust-parquet-s3/target/release/deps/xmlparser-0959921bb94cf46f.d: /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/lib.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/error.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/stream.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/strspan.rs /Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/xmlchar.rs
+
+/Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/lib.rs:
+/Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/error.rs:
+/Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/stream.rs:
+/Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/strspan.rs:
+/Users/markb/.cargo/registry/src/index.crates.io-6f17d22bba15001f/xmlparser-0.13.3/src/xmlchar.rs:
